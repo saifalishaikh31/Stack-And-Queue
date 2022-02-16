@@ -36,6 +36,7 @@ namespace StackAndQueueProblem
                         linkedListQueue.Enqueue(30);
                         linkedListQueue.Enqueue(70);
                         linkedListQueue.Display();
+                        linkedListQueue.IsEmpty();
                         break;
                     case 3:
                         flag = false;
